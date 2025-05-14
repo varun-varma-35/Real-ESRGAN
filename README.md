@@ -1,4 +1,6 @@
 # Real-ESRGAN
+SMV Fork for REAL-ESRGAN.
+
 PyTorch implementation of a Real-ESRGAN model trained on custom dataset. This model shows better results on faces compared to the original version. It is also easier to integrate this model into your projects.
 
 > This is not an official implementation. We partially use code from the [original repository](https://github.com/xinntao/Real-ESRGAN)
